@@ -1,6 +1,3 @@
-// Automatic check for homework 1. Do not change this file.
-// Run: node check.js
-
 import { existsSync, readFileSync } from "node:fs";
 import { inspect, isDeepStrictEqual } from "node:util";
 import { loadData } from "./load.js";
